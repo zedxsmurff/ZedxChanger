@@ -30,6 +30,7 @@
    1. Kaynak kodunu şu komutla klonla: `git clone --recursive https://github.com/R3nzTheCodeGOD/R3nzSkin.git`
 
 # Kullanım
+</div>
  1- Kaynak kodunu derle veya derlenmiş sürümü indir.
  2- ZedxChanger.exe kullan ya da oluşturulan DLL dosyasını oyuna kendin enjekte et.
  3- Eğer enjektör DLL’i enjekte edemezse yönetici yetkisi gerekebilir.
