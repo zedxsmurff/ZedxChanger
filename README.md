@@ -31,14 +31,16 @@
 
 # Kullanım
 </div>
- 1- Kaynak kodunu derle veya derlenmiş sürümü indir.
- 2- ZedxChanger.exe kullan ya da oluşturulan DLL dosyasını oyuna kendin enjekte et.
- 3- Eğer enjektör DLL’i enjekte edemezse yönetici yetkisi gerekebilir.
- 4- ZedxChanger oyuna girmeden önce enjekte edilirse League istemcisi çökebilir.
- 5- Bunun geçici çözümü, oyuna girdikten sonra enjekte etmektir (oyunu etkilememek için hızlı olman gerekir).
- 6- Menüyü açmak için Insert tuşuna bas.
- 7- Kendin, takım arkadaşların, rakipler ve totemler için kostüm seç.
 
+<ol>
+  <li>Kaynak kodunu derle veya derlenmiş sürümü indir.</li>
+  <li>ZedxChanger.exe kullan ya da oluşturulan DLL dosyasını oyuna kendin enjekte et.</li>
+  <li>Eğer enjektör DLL’i enjekte edemezse yönetici yetkisi gerekebilir.</li>
+  <li>ZedxChanger oyuna girmeden önce enjekte edilirse League istemcisi çökebilir.</li>
+  <li>Bunun geçici çözümü, oyuna girdikten sonra enjekte etmektir (oyunu etkilememek için hızlı olman gerekir).</li>
+  <li>Menüyü açmak için Insert tuşuna bas.</li>
+  <li>Kendin, takım arkadaşların, rakipler ve totemler için kostüm seç.</li>
+</ol>
 # Katkıda Bulunanlar
  Discord Yönetim;
    flextypebeat
