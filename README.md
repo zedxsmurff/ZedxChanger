@@ -41,7 +41,8 @@
   <li>Menüyü açmak için Insert tuşuna bas.</li>
   <li>Kendin, takım arkadaşların, rakipler ve totemler için kostüm seç.</li>
 </ol>
-# Katkıda Bulunanlar
- Discord Yönetim;
+
+## **Katkıda Bulunanlar** ##
+ ## Discord Yönetim; ##
    flextypebeat
    krapsss 
