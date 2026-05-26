@@ -26,8 +26,8 @@
   <li>Tek bir oyun içinde istediğin zaman ve sınırsız kez kostüm değiştirme.</li>
   <li>Dünyadaki tüm popüler dilleri destekler.</li>
 </ul>
-# Derleme
-   1. Kaynak kodunu şu komutla klonla: `git clone --recursive https://github.com/R3nzTheCodeGOD/R3nzSkin.git`
+# İndirme
+  İndirdikten sonra ne yapayacağınız klasorun içindeki .txt dosyasının içinde yazmaktadır. İyi Eğlenceler <a href="DOSYA_LINKI_BURAYA" download>ZedxChanger</a>
 
 # Kullanım
 </div>
