@@ -44,5 +44,5 @@
 
 ## **Katkıda Bulunanlar** ##
  ## Discord Yönetim; ##
-   flextypebeat
+   flextypebeat </div>
    krapsss 
