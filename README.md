@@ -18,16 +18,14 @@
    `ZedxChanger`, League of Legends için dahili bir kostüm değiştiricisidir.
 
 </div>
-- Oyunda kendi şampiyonunun, toteminin, diğer şampiyonların, kulelerin, minyonların ve orman canavarlarının kostümünü değiştirebilirsin.
 
-- Otomatik kostüm veritabanı güncellemesi.
-
-- izleyici modu desteği.
-
-- tek bir oyun içinde istediğin zaman ve sınırsız kez kostüm değiştirme.
-
-- Dünyadaki tüm popüler dilleri destekler.
-
+<ul>
+  <li>Oyunda kendi şampiyonunun, toteminin, diğer şampiyonların, kulelerin, minyonların ve orman canavarlarının kostümünü değiştirebilirsin.</li>
+  <li>Otomatik kostüm veritabanı güncellemesi.</li>
+  <li>İzleyici modu desteği.</li>
+  <li>Tek bir oyun içinde istediğin zaman ve sınırsız kez kostüm değiştirme.</li>
+  <li>Dünyadaki tüm popüler dilleri destekler.</li>
+</ul>
 # Derleme
    1. Kaynak kodunu şu komutla klonla: `git clone --recursive https://github.com/R3nzTheCodeGOD/R3nzSkin.git`
 
