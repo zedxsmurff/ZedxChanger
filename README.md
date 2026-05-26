@@ -19,9 +19,13 @@
 
 </div>
 - Oyunda kendi şampiyonunun, toteminin, diğer şampiyonların, kulelerin, minyonların ve orman canavarlarının kostümünü değiştirebilirsin.
+</div>
 - Otomatik kostüm veritabanı güncellemesi.
+</div>
 - izleyici modu desteği.
+</div>
 - tek bir oyun içinde istediğin zaman ve sınırsız kez kostüm değiştirme.
+</div>
 - Dünyadaki tüm popüler dilleri destekler.
 
 # Derleme
